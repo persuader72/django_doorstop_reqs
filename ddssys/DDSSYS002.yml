@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  System functions
+level: 1.2
+links: []
+normative: false
+ref: ''
+reviewed: 8vts2u-eoSKmaRdIrRL_u6HhWLvLhUIL14dtUuaY86M=
+text: |
+  It must provide all basic functions provided by the Doorstop command line tool.

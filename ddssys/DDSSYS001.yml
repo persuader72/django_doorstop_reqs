@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  System description
+level: 1.1
+links: []
+normative: false
+ref: ''
+reviewed: XG4CCdDBsKpR-ZHT51QZurNxC5VMOWC6XSVXFn6oWPM=
+text: |
+  Doorstop_django must provide requirements management application using a web interface based on Django framework.
