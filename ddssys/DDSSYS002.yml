@@ -1,11 +1,11 @@
 active: true
 derived: false
 header: |
-  System functions
+  System description
 level: 1.2
 links: []
-normative: false
+normative: true
 ref: ''
-reviewed: 8vts2u-eoSKmaRdIrRL_u6HhWLvLhUIL14dtUuaY86M=
+reviewed: E_WQRV4VYTNtJMyeegTJwLslwT4nWi2tFr48n4OYvpQ=
 text: |
-  It must provide all basic functions provided by the Doorstop command line tool.
+  Doorstop_django must provide requirements management application using a web interface based on Django framework.

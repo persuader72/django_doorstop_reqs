@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  System functions
+level: 1.3
+links: []
+normative: true
+ref: ''
+reviewed: FEMob-SH0D4_NZpmG5n4kk6hJn_mqamZa6bbYYh2yM4=
+text: |
+  Doorstop_django must provide all basic functions provided by the Doorstop command line tool.

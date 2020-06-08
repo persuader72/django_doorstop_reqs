@@ -1,3 +1,16 @@
+attributes:
+  defaults:
+    moc: []
+  forgein-fields:
+    multi_field:
+      choices:
+        A: Analysis
+        I: Inspection
+        R: Review
+        T: Test
+      type: multi
+  reviewed:
+  - moc
 settings:
   digits: 3
   prefix: DDSSYS
