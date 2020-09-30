@@ -1,7 +1,7 @@
 attributes:
   defaults:
     moc: []
-  forgein-fields:
+  foreign-fields:
     multi_field:
       choices:
         A: Analysis
